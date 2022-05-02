@@ -1,0 +1,89 @@
+div.header {
+    height: 20%;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    border-radius: 50px;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+    margin: 0;
+    padding: 30px;
+}
+
+iframe {
+    position: relative;
+    left: 100px;
+    bottom: 5px;
+    height: 250px;
+    width: 1000px;
+    border-radius: 10px;
+}
+
+ul {
+    padding: 50%;
+    position: relative;
+}
+
+
+ul li {
+    margin-top: 50px;
+}
+
+div.lijevi {
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    background-color: aqua;   
+}
+
+div.home-main {
+    display: inline-block;
+    width: 70%;
+    text-align: center;
+    top: 30px;
+    background-color: bisque;
+}
+
+div.about-main {
+    display: inline-block;
+    width: 70%;
+    text-align: center;
+    top: 30px;
+}
+
+div.contact-main {
+    display: inline-block;
+    width: 70%;
+    text-align: center;
+    top: 30px;
+}
+
+div.gallery-main {
+    display: inline-block;
+    width: 70%;
+    text-align: center;
+    top: 30px;
+}
+
+h1 {
+    color: blue;
+    font-family: sans-serif;
+    font-style: italic;
+    text-shadow: 2px 2px blue;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px red;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: overline;
+    text-shadow: 5px 1px green;
+}
